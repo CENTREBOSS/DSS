@@ -67,9 +67,9 @@ const phrases = [
   'Initializing Purple Team Protocol...',
   'Scanning network perimeters...',
   'Exploit detected. Patching...',
-  'Kibermakonni himoya qilamiz.',
-  'DSS: Defend. Strike. Secure.',
-  'SULTONOV SARDORBEK — Team Lead'
+  'Strong team and 3 years of experience...',
+  'DSS: Defend. Strike. Secure...',
+  'we are always with you!...'
 ];
 let phraseIdx = 0, charIdx = 0, deleting = false;
 const typingEl = document.getElementById('typing-text');
@@ -104,9 +104,9 @@ const defaultConfig = {
   hero_subtitle: 'Dual Stack Security',
   about_title: 'Biz Haqimizda',
   leader_name: 'SULTONOV SARDORBEK',
-  instagram_url: 'https://instagram.com/YOUR_HANDLE',
-  telegram_url: 'https://t.me/YOUR_CHANNEL',
-  youtube_url: 'https://youtube.com/@YOUR_CHANNEL',
+  instagram_url: 'https://instagram.com/DualStackSecurity',
+  telegram_url: 'https://t.me/DualStackSecurity',
+  youtube_url: 'https://youtube.com/@DualStackSecurity',
   background_color: '#05000a',
   accent_color: '#a855f7',
   red_color: '#ef4444',
